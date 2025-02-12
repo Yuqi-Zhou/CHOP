@@ -39,6 +39,8 @@ We collect 10 commonly used subtasks from AITZ and define them as **basis subtas
 
 ### 🔧Preparation
 
+#### ADB Environment
+
 ❗At present, only **Android OS** and **Harmony OS** (version <= 4) support tool debugging.
 
 1. Download the [Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools?hl=en).
@@ -48,14 +50,22 @@ We collect 10 commonly used subtasks from AITZ and define them as **basis subtas
 5. If you are using a MAC or Linux system, make sure to turn on adb permissions as follow: ```sudo chmod +x /path/to/adb```
 6. If you are using Windows system, the path will be ```xx/xx/adb.exe``
 
+#### UI grounding
+
+You can go to https://huggingface.co/spaces/Aria-UI/Aria-UI to get the Aria-UI model.
+
 ### Run
 
 Here we provide a demo code for anyone who wants to try the CHOP on GPT-4V.
 
-Firstly, go to `src/CHOP/api.py` and add your own urls. 
+Firstly, go to `src/CHOP/api.py` and add your own urls. Then, go to `src/run_Aria.py` to set your Aria-UI model path.
 
 Secondly, run the folloiwng code in commad line to test CHOP framework:
 
 ```shell
+cd src
+
+python run_Aria.py
+
 python run.py --app_name APP_FOR_TEST --ins_cnt DIFFICULTY --test_data CHOP-En/CHOP-ZH --adb_path YOUR_ADB_PATH --api YOUR_API_KEY
 ```
