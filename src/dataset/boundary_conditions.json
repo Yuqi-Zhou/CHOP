@@ -1,0 +1,22 @@
+{
+    "Search Item": 
+            "1. Search bar fails to load: Refresh the page or check the network connection. 2. Search bar unresponsive: Try reopening the app or browser. 3. Input error: Correct it by using the backspace key and ensure the item name is accurately entered. 4. Slow loading of search results: Wait patiently or check the network speed.",
+    "Send Text Message": 
+            "1. App status: Ensure that the messaging app is not crashed or in need of an update to avoid issues with sending the message.",
+    "Open Section": 
+            "1. App is unresponsive: If the app does not respond at any step, try tapping the corresponding icon or button again. 2. Target element not found: If the target element cannot be found in the step, use scrolling or the search function to locate it.",
+    "View Content": 
+            "1. Content not found: If the specified content cannot be found, check if the keywords are accurate or if the search range is correct. 2. Confirm content type: If specific content types (e.g., videos, articles) are not displaying, ensure that related plugins or settings have not been mistakenly disabled. 3. Navigation confusion: If there are uncertain steps in navigation, refer to the app's help documentation or contact technical support.",
+    "Interact": 
+            "1. Content not on screen: If the target content is not immediately visible, try scrolling up or down on the screen until the content appears. 2. Interaction button not showing: If the interaction button (like or comment button) is not displayed, try tapping the content itself to expand the detailed view, which may display the interaction options. 3. Content not unique: If the target content is not unique on the page, use more specific contextual or title information to confirm the exact content to interact with.",
+    "Manage Collections": 
+            "1. Can't find 'My Favorites' or 'Management' option: Check the various pages within the app. This option is often hidden in secondary menus or may require swiping left/right or tapping a More button to access. 2. Unable to recognize the operation (parameter1) or item (parameter2). Ensure that the app is updated to the latest version to support the required functionalities. 3. Action blocked: Ensure the user is logged in and has sufficient permissions to perform these actions, as some actions may require special permissions. Check the app settings to confirm the login status.",
+    "Share Content": 
+            "1. If the sharing platform options are not displayed during the process, try scrolling through the available icons to find the correct app (such as WeChat). 2. If the contact is not in the recent chats or common contacts list, use the search bar to search for the contact. 3. If the app requests permission to access certain data (such as contacts), grant the necessary permission to proceed. 4. If the target contact does not appear in the list, ensure the contact information is correctly entered or verify if the contact is saved in the app’s contacts list.",
+    "Check Notifications": 
+            "1. If you can’t find the notification or message icon, try swiping left or up to check for any hidden icons. 2. If you can’t access the related screen, go back to the previous page and double-check the icons. 3. Ensure that the device's notification settings are enabled to ensure that you can receive and view messages properly.",
+    "Modify Settings": 
+            "1. If the relevant setting options are not found, you can search for the setting functionality or check the app's help information. 2. If the required operation cannot be performed, check whether the app has the necessary permissions or if it needs to be updated to the latest version. 3. If there is an issue saving settings, check the phone's storage space or cache.",
+    "Create or Edit Entry": 
+            "1. Cannot find the new/edit option: Ensure you are in the correct functional page or check if the app needs to be updated to gain access to the related features. 2. App permission issues: If creating or editing an entry involves accessing system features (such as contacts, photos, etc.), ensure the app has the appropriate permissions. 3. Information not saved: Check if you pressed the 'Confirm' or 'Save' button and ensure all required fields are filled. 4. Operation fails: If creating or editing the entry fails, try restarting the app or check your network connection (for apps that require internet access)."
+}

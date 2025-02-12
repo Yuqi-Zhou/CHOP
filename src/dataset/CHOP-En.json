@@ -1,0 +1,52 @@
+{
+    "Music": [
+        "Search singer Jay Chou in Music.",
+        "Search a music about 'agent' in Music and play it.",
+        "I want to listen music to relax."
+    ],
+    "Baidu": [
+        "Search result for today's Lakers game in Baidu.",
+        "Search the information about Taylor Swift in Baidu.",
+        "I want to know the result for today's Lakers game."
+    ],
+    "Mail": [
+        "Send an empty email to to {EMAIL ADDRESS}.",
+        "Send an email to {EMAIL ADDRESS} to tell my new work.",
+        "I want to let my friend know my new work, and his address is {EMAIL ADDRESS}."
+    ],
+    "Amap": [
+        "Navigate to Forbidden City in Amap",
+        "Navigate to a nearby gas station.",
+        "I want to go to The Forbidden City, but I don't know the way."
+    ],
+    "AppGallery": [
+        "Download WeChat in AppGallery.",
+        "Download Tim in AppGallery.",
+        "I want Quark on my phone."
+    ],
+    "Notes": [
+        "Create a new note in Notepad.",
+        "Create a new note in Notepad and write 'Hello, this is a note', then save it.",
+        "I suddenly have something to record, so help me find an App and write down the following content: meeting at 3pm."
+    ],
+    "Settings": [
+        "Turn on the dark mode on settings.",
+        "Turn on the airplane mode.",
+        "I want to see the real time internet speed at the battery level, please turn on this setting for me."
+    ],
+    "Kuaishou": [
+        "Swipe a video about pet cat in Kuaishou and click a 'like' for this video.",
+        "Swipe a video about pet cat in Kuaishou and comment 'Ohhhh, so cute cat!'.",
+        "Swipe videos in Kuaishou. Click 'like' for 3 pet video cat."
+    ],
+    "Bilibili": [
+        "Search for videos about Stephen Curry on Bilibli.",
+        "Search for videos about Stephen Curry on Bilibli and open 'Comments' to comment 'Oh, chef, your basketball spirit hasalways inspired me'.",
+        "I need you to help me show my love for Stephen Curry on Bilibli."
+    ],
+    "Multi-App": [
+        "Open the Calendar and look at today's date, then go to Notepad and create a new note to write 'Today is [today's data]'.",
+        "Check the temperature in the next 5 days, and then create a new note in Notes and write a temperature analysis.",
+        "Search the result for today's Lakers game, and then create a note in Notes to write a sport news for this result."
+    ]
+}
