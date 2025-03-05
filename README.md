@@ -69,3 +69,6 @@ python run_Aria.py
 
 python run.py --app_name APP_FOR_TEST --ins_cnt DIFFICULTY --test_data CHOP-En/CHOP-ZH --adb_path YOUR_ADB_PATH --api YOUR_API_KEY
 ```
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](./LICENSE) file for details.
