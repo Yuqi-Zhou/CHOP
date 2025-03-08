@@ -69,6 +69,18 @@ python run_Aria.py
 
 python run.py --app_name APP_FOR_TEST --ins_cnt DIFFICULTY --test_data CHOP-En/CHOP-ZH --adb_path YOUR_ADB_PATH --api YOUR_API_KEY
 ```
+
+## 📑Citation
+If you find CHOP useful for your research and applications, please cite using this BibTeX:
+```
+@article{zhou2025chop,
+  title={CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning},
+  author={Zhou, Yuqi and Wang, Shuai and Dai, Sunhao and Jia, Qinglin and Du, Zhaocheng and Dong, Zhenhua and Xu, Jun},
+  journal={arXiv preprint arXiv:2503.03743},
+  year={2025}
+}
+```
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](./LICENSE) file for details.
